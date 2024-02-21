@@ -1,5 +1,6 @@
 body{
     background-color: #121212;
+    font-family: 'Times New Roman', Times, serif;
 }
 div{
     position: absolute;
@@ -10,7 +11,10 @@ div{
     padding: 50px;
     border-radius: 15px;
 }
+a{
+    color: #FFF;
+    text-decoration: none;
+}
 h1{
     color: #c2c2c2;
-    font-family: 'Times New Roman', Times, serif;
 }

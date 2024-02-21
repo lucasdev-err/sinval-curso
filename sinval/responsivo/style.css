@@ -1,0 +1,15 @@
+.navigation{
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+}
+.navigation-menu{
+    display: flex;
+    flex-direction: row;
+    gap: 5%;
+    padding-right: 5%;
+}
